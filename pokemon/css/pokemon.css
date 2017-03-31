@@ -1,0 +1,74 @@
+*{
+    padding:0px;
+    margin:0px;
+    font-family: "Myriad Pro", Myriad;
+}
+
+.mainContainer{
+    width:1884px;
+    height:1504px;
+    background-image: url(../images/background.png);
+    padding:0px;
+
+}
+
+.containerOne{
+    height:968px;
+    
+}
+
+.containerTwo{
+    height:536px;
+    background: rgba(30, 57, 110, 0.8);
+
+    
+}
+
+#pikachu{
+    /*order:1px solid red;*/
+    padding:0px;
+    margin-top:107px;
+    margin-left:101px;
+}
+
+
+
+.textOne{
+    
+    font-size: 140px;
+    color:#ffffff;
+    padding-left:428px;
+    /*border:1px solid green;
+    height:140px;*/
+    margin-top:-28px;
+}
+
+.textTwo{
+    font-size: 40px;
+    color:#ffffff;
+    padding-left:530px;
+    /*border:1px solid green;
+    height:140px;*/
+    margin-top:-30px;
+    line-height: 185%;
+}
+
+.guarantee{
+    /*border:1px solid yellow;*/
+    margin-top:-172px;
+    margin-left:-70px;
+}
+
+#downloadNow{
+    font-size:100px;
+}
+
+#downloadNowButton{
+    background-color:#ffd624;
+    border:none;
+    text-align:center;
+    border-radius: 10px;
+    width: 1241px;
+    height: 152px;
+    margin-left:276px;
+}
